@@ -4,6 +4,7 @@ The H961-U v6.1 is a battery management system (BMS) and power bank module. It h
 * Over Discharge protection
 * Short circuit protection
 which ensures that the lithium ion batteries (18650 cells) remain at a safe and operable state.
+
 It has two USB A ports for charging two devices at a rate of 5V & 2.4A on the quick charge port and 5V and 2A on the standard port.
 The board has 3 input ports for charging the batteries, which include a type C port, lightning port and a micro usb port.
 It has a built-in 7 segment display to indicate the charge of the battery and a few other LEDs to show whether the device is charging or not.
