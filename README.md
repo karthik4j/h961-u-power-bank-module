@@ -1,3 +1,4 @@
+![1.](https://github.com/karthik4j/h961-u-power-bank-module/blob/main/images/1.jpg?raw=true)
 # Introduction
 The H961-U v6.1 is a battery management system (BMS) and power bank module. It has features like :
 * Over charge protection
